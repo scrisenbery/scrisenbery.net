@@ -1,0 +1,31 @@
+/****** FONTS ******/
+@font-face {
+    font-family: LeagueGothic;
+    src: url(../fonts/league-gothic/leaguegothic-regular-webfont.woff);
+    font-weight: normal;
+}
+
+
+
+
+
+body {
+    background-color: #EDEFF5;
+}
+
+.sc-navbar {
+    text-align: center;
+    margin-top: 50px;
+    font-family: LeagueGothic;
+    font-size: 36px;
+}
+
+.sc-navicons {
+    font-size: 36px;
+    line-height: 20px;
+}
+
+.sc-dropdownicons {
+    font-size: 14px;
+    line-height: 0px;
+}
